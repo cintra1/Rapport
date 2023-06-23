@@ -1,4 +1,4 @@
-# Rapport - C#
+# Rapport - C# Desktop Aplication
 
 ![rapport](https://github.com/cintra1/Rapport/assets/101955322/60c2408a-5980-48f5-9701-3bcc6d93c0ba)
 ![rapport-2](https://github.com/cintra1/Rapport/assets/101955322/681ed59f-4cb5-4fc6-98b4-36da1618057f)
